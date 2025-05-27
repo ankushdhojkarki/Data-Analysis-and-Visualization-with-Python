@@ -30,4 +30,4 @@ I’m documenting everything I learn, from simple data cleaning to meaningful vi
 
 1. Clone the repository or download the ZIP file:
 ```bash
-git clone https://github.com/ankushdhojkarki/Data-Analysis-and-Visualization-with-Python.git
+https://github.com/ankushdhojkarki/Data-Analysis-and-Visualization-with-Python.git
