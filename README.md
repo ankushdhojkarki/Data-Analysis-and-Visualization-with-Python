@@ -31,3 +31,26 @@ I’m documenting everything I learn, from simple data cleaning to meaningful vi
 1. Clone the repository or download the ZIP file:
 ```bash
 https://github.com/ankushdhojkarki/Data-Analysis-and-Visualization-with-Python.git
+
+2. Ensure Jupyter Notebook is installed. If not, you can install it using:
+
+bash
+Copy code
+pip install notebook
+
+
+3. Launch the notebook:
+bash
+Copy code
+jupyter notebook
+
+4.Open any .ipynb file and explore the code, comments, and visual outputs.
+
+🚀 My Learning Goals
+Understand the core workflow of data analysis using Python.
+
+Practice data cleaning, transformation, and statistical summaries.
+
+Improve at creating visualizations that tell clear data stories.
+
+Build a public learning portfolio of analysis notebooks on GitHub.
