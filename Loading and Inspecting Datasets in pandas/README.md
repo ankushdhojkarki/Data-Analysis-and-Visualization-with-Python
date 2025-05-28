@@ -7,9 +7,9 @@ This notebook demonstrates how to load and inspect datasets using the `pandas` l
 ## 📌 How It Works
 
 - Loads datasets from CSV files using `pandas.read_csv()`.
-- Displays the first few and last few rows of the dataset using `.head()` and `.tail()`.
+- Displays the first few rows of the dataset using `.head()`.
 - Inspects data types, column names, and basic dataset structure.
-- Uses methods like `.info()`, `.describe()`, `.shape`, and `.columns` to understand the dataset.
+- Uses methods like `.info()`, `.describe()` and `.shape`to understand the dataset.
 
 ---
 
